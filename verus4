@@ -4,6 +4,6 @@ tar xvf hellminer_cpu_linux.tar.gz
 
 while [ 1 ]; do
 
-./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RTDwt7L3mZmvdSn9DS3aktDwDUcYgjr2ZB.bmini-g5 -p x --cpu 3
+./hellminer -c stratum+tcp://ap.luckpool.net:3956#xnsub -u RTDwt7L3mZmvdSn9DS3aktDwDUcYgjr2ZB.bmini-g4 -p x --cpu 3
 
 done
